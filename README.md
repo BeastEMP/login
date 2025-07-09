@@ -33,8 +33,8 @@ A modern, full-stack authentication system built with React, Convex, and TypeScr
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd secure-auth-system
+   git clone https://github.com/BeastEMP/login
+   cd login
    ```
 
 2. **Install dependencies**
